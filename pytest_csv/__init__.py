@@ -17,7 +17,7 @@
 # ----------------------------------------------------------------------
 
 
-__prog__ = 'pytest-csv'
+__prog__ = 'pytest-csv-append-only'
 __author__ = 'Julien Nicoulaud'
 __email__ = 'julien.nicoulaud@gmail.com'
 __url__ = 'https://github.com/nicoulaj/pytest-csv'
